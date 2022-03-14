@@ -1,1 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=skhaz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=000000&icon_color=000000)
+![Stats](https://github-readme-stats.vercel.app/api?username=skhaz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skhaz&layout=compact)
